@@ -98,8 +98,8 @@ void startGame()
         else if(i==1) totalPoint = level[1];
         else if(i==3)totalPoint = level[2];
         else if(i==5)totalPoint = level[3];
-        else if(i==9)totalPoint = level[4];
-        else if(i==8)totalPoint = level[5];
+        else if(i==8)totalPoint = level[4];
+        else if(i==9)totalPoint = level[5];
         cout<<endl;
         i++;
     }
