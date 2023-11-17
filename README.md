@@ -4,8 +4,8 @@ This is a fun game to make money using your IQ. Play and have fun!
 <br>
 <br>
 **Author Deatails:** <br>
-**NAME****: Nusrat Jahan Aliza**<br>
-**ID****: 221-115-076**<br>
+**NAME: Nusrat Jahan Aliza**<br>
+**ID: 221-115-076**<br>
 Computer Science & Engineering<br>
 Studies at Metropolitan University, Bangladesh<br>
 <br>
